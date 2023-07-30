@@ -3,7 +3,7 @@
 
 <head>
     <link rel="stylesheet" href="{{ asset('bootstrap-5.0.2-dist/css/bootstrap.min.css') }}">
-    <link rel="stylesheet" href="{{ asset('fontawesome-free-6.4.0-web/css/fontawesome.min.css')}}">
+    <link rel="stylesheet" href="{{ asset('fontawesome-free-6.4.0-web/css/fontawesome.min.css') }}">
     <script src="{{ asset('bootstrap-5.0.2-dist/js/bootstrap.bundle.min.js') }}"></script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -65,11 +65,11 @@
             <div class="col-6">
                 <div class="card">
                     <div class="card-body pt-3">
-                        <h6>World</h6>
-                        <h3 class="card-title">Featured post</h3>
-                        <p class="card-subtitle">Nov 12</p>
+                        <h6>Country</h6>
+                        <h3 class="card-title">Sport Post</h3>
+                        <p class="card-subtitle">Nov 13</p>
                         <div class="card-text">
-                            <p>This is a wider class with supporting text below as a<br>
+                            <p>This is a smaller class with supporting text below as a<br>
                                 natural lead-in to additional content</p><br>
                             <a><b><u>Continue reading</u></b></a>
                         </div>
